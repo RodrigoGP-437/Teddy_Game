@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 8f018474073a9d744b9d99bace34bb07
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - emisor: {instanceID: 0}
+  - sonidito: {fileID: 8300000, guid: 8e85790ada7f0e747acd6c3fcf14b1e2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

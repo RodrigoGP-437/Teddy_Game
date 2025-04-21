@@ -1,0 +1,4 @@
+repository "Teddy_Game@Souldeyk437@cloud"
+  path "/"
+    br "/main"
+    co "/main"
